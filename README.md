@@ -45,14 +45,14 @@ This project simulates **real-world data management tasks**, which are critical 
 ---
 
 ## **Project Structure**
-
+```
 CRUD_student_db/
 ├── README.md
 ├── .gitignore
 ├── requirements.txt
 └── src/
 └── main.py
-
+```
 ---
 
 ## **How to Run**
