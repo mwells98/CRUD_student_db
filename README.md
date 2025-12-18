@@ -1,7 +1,7 @@
 # CRUD_student_db
 
 A Python CLI application to manage student records with validation and SQLite database.  
-This project demonstrates CRUD (Create, Read, Update, Delete) operations, data validation using regex, and persistent data storage—skills that are foundational for data analytics.
+This project demonstrates CRUD (Create, Read, Update, Delete) operations, data validation using regex, and persistent data storage skills that are foundational for data analytics.
 
 ---
 
