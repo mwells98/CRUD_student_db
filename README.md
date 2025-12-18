@@ -44,16 +44,27 @@ This project simulates **real-world data management tasks**, which are critical 
 
 ---
 
+## **Project Structure**
+```
+CRUD_student_db/
+├── README.md
+├── .gitignore
+├── requirements.txt
+└── src/
+└── main.py```
+
+---
+
 ## **How to Run**
 
 1. Clone the repository:
 ```bash
-git clone https://placeholder/placeholder.git
+git clone https://github.com/mwells98/CRUD_student_db.git
 ```
 
-2. Navigate to the scr folder:
+2. Navigate to the src folder:
 ```bash
-cd placeholder/scr
+cd CRUD_student_db/src
 ```
 
 3. Run the program:
