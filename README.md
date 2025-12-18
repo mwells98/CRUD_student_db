@@ -49,14 +49,17 @@ This project simulates **real-world data management tasks**, which are critical 
 1. Clone the repository:
 ```bash
 git clone https://placeholder/placeholder.git
+```
 
 2. Navigate to the scr folder:
 ```bash
 cd placeholder/scr
+```
 
 3. Run the program:
 ```bash
 python main.py
+```
 
 4. Follow the CLI prompts to add, view, update, or delete students
 
